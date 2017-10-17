@@ -10,11 +10,20 @@
     "type": "git",
     "url": "git+https://github.com/darlanmendonca/angular-filter-keys.git"
   },
-  "keywords": [],
+  "keywords": [
+    "angular",
+    "filter",
+    "array",
+    "object",
+    "fields"
+  ],
   "author": "Darlan Mendonça <darlanmendonca@gmail.com> (https://darlanmendonca.github.io)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/darlanmendonca/angular-filter-keys/issues"
   },
-  "homepage": "https://github.com/darlanmendonca/angular-filter-keys#readme"
+  "homepage": "https://github.com/darlanmendonca/angular-filter-keys#readme",
+  "dependencies": {
+    "angular": "^1.6.6"
+  }
 }
